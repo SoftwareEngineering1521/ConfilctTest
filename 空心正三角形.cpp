@@ -13,7 +13,7 @@ int main()
 			cout<<"* ";
 			if (i==n&&j>=n+1)
 			break;
-			if (i<n)
+
             {
 			if (j==n-i+1||j==n+i-1)
 			cout<<"*";
@@ -26,3 +26,5 @@ int main()
 }
     return 0;
 }
+
+//shit
